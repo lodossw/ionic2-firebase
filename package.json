@@ -39,7 +39,8 @@
       "platform": "ios",
       "version": "",
       "locator": "ios"
-    }
+    },
+    "android"
   ],
   "name": "firebase",
   "description": "Firebase: An Ionic project"
